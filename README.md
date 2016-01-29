@@ -1,2 +1,4 @@
-# Pup_Jen_CFN
-testing Jenkins with Puppet and CloudFormation
+e90_puppet
+==========
+
+puppet configuration  for the final project,
